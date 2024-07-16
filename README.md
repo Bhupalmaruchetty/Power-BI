@@ -116,4 +116,31 @@ Female: 50 investments
 ![image](https://github.com/user-attachments/assets/da93cb5d-2ec2-4ba9-8fa7-31c2e449fb21)
 
 
+**Task3:Objective Analysis**
+
+**Objective:**
+ Analyze the relationship between savings objectives and investment choices.
+
+**Steps:**
+ **1.Correlation Analysis:** Explored the correlation between savings objectives(e.g., Capital Appreciation) and investment avenues (e.g., Equity).
+
+**2.Chart Creation:** Generated charts displaying preferred investment choices for each savings objective.
+
+**Insights:**
+
+1. Capital Appreciation is the top objective, with a significant preference for Mutual Funds (13 responses) ,Equity and Fixed Deposits(6 responses)
+
+2. Growth objectives also show a balanced interest across various investment avenues like Fixed Deposits and Mutual Funds.
+
+3. Income objectives have a diverse spread, with interests in Equity and Mutual Funds.
+
+4. More investment towards Retirement planning and Health care. Whereas a very few percentage invested in Education.
+
+**Summary :** This analysis helps in understanding investment preferences and objectives better, enabling more tailored financial advice and solutions.
+
+**Snap of Dashboard**
+
+![image](https://github.com/user-attachments/assets/1ac78c40-a139-4352-a122-dbb4aa21f157)
+
+
 
