@@ -65,6 +65,11 @@ bhupal-maruchetty-2070b8301**
 ![image](https://github.com/user-attachments/assets/01aa8bad-27bc-4703-968b-7fa8d539afdd)
 
 
+
+
+
+
+
 **Task2: Gender-based Analysis:**
 
 **Objective:** Analyze and visualize gender-based differences in investment preferences.
@@ -121,6 +126,11 @@ Female: 50 investments
 ![image](https://github.com/user-attachments/assets/da93cb5d-2ec2-4ba9-8fa7-31c2e449fb21)
 
 
+
+
+
+
+
 **Task3:Objective Analysis**
 
 **Objective:**
@@ -148,6 +158,10 @@ Female: 50 investments
 **Snap of Dashboard**
 
 ![image](https://github.com/user-attachments/assets/1ac78c40-a139-4352-a122-dbb4aa21f157)
+
+
+
+
 
 
 
@@ -180,6 +194,10 @@ bhupal-maruchetty-2070b8301
  **Snap of Dashboard:**
 
  ![image](https://github.com/user-attachments/assets/edbd9e12-8902-4d85-a295-e023298a19bc)
+
+
+
+
 
 
 
@@ -225,6 +243,11 @@ bhupal-maruchetty-2070b8301
  **Snap of Dashboard:**
 
  ![image](https://github.com/user-attachments/assets/914d63f2-e408-4ce1-b547-ef4629c37e2a)
+
+
+
+
+ 
 
 
 
