@@ -227,6 +227,56 @@ bhupal-maruchetty-2070b8301
  ![image](https://github.com/user-attachments/assets/914d63f2-e408-4ce1-b547-ef4629c37e2a)
 
 
+
+
+**Task 6:Source of Information**
+
+**Objective**: 
+ Analyze the sources from which individuals gather investment information.
+
+**Steps**:
+**1. Visualization**:
+ Created a Clustered bar chart to show the distribution of these sources.
+ Created a Clustered column chart to show the Different Avenues by Sources.
+ 
+**2. Insight Extraction**:
+ Analyzed the visual data to identify which sources are most commonly relied upon by investors.
+ 
+**3. Interpretation**:
+ Interpreted the results to understand the impact of each source on investors' decisions.
+
+**Key Insights**:
+
+**1. Source Avenues by Source**:
+
+ Financial Consultants: Most commonly relied upon, with a count of 16.
+ Newspapers and Magazines: Second most common, with a count of 14.
+ Internet: Moderate reliance, with a count of 6.
+ Television: Least relied upon, with a count of 4.
+
+**2. Source by Avenue**:
+ 
+ **1.Mutual Fund**: This avenue has the highest count of sources, with a total of 18. It indicates that Mutual Funds are the most popular or widely discussed investment avenue among the sources analyzed.
+
+ **2.Equity**: The second highest count is for Equity, with a total of 10. This suggests that Equity investments are also a significant focus for information sources.
+
+ **3.Fixed Deposits**: This avenue has a count of 9, showing a moderate level of interest or information availability compared to Mutual Funds and Equity.
+
+ **4. Public Provident Fund**: With the lowest count of 3, this avenue appears to be the least discussed or focused on by the sources.
+
+ 
+ **Conclusion**: These insights show that Financial Consultants are the most trusted source across various investment avenues, while Television is the least utilized.
+
+ The information available for different investment avenues, with Mutual Funds being the most prominent and Public Provident Fund least discussed on the sources
+
+**LinkedIn URL**:**www.linkedin.com/in/
+bhupal-maruchetty-2070b8301**
+
+
+ **Snap of Dashboard:**
+
+ ![image](https://github.com/user-attachments/assets/1751d56b-7100-4e7e-bcbf-1deca464d26c)
+
  
 
 
