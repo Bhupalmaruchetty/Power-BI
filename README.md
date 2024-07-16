@@ -114,6 +114,8 @@ Female: 50 investments
 
 **Conclusion :** Interestingly, daily monitoring is more popular among male investors, with no females choosing this option.
 
+**LinkedIn URL:www.linkedin.com/in/ bhupal-maruchetty-2070b8301**
+
 **Snap of Dashboard:**
 
 ![image](https://github.com/user-attachments/assets/da93cb5d-2ec2-4ba9-8fa7-31c2e449fb21)
@@ -140,6 +142,8 @@ Female: 50 investments
 4. More investment towards Retirement planning and Health care. Whereas a very few percentage invested in Education.
 
 **Summary :** This analysis helps in understanding investment preferences and objectives better, enabling more tailored financial advice and solutions.
+
+**LinkedIn URL:www.linkedin.com/in/ bhupal-maruchetty-2070b8301**
 
 **Snap of Dashboard**
 
