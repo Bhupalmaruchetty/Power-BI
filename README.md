@@ -57,6 +57,9 @@ Investing in gold indicates a hedge against economic uncertainty and inflation, 
 
 The data shows a focus on long-term financial stability and healthcare, with less attention to education savings. Investments in gold and debentures suggest a preference for stability and fixed-income securities in an uncertain economy.
 
+LinkedIn URL:**www.linkedin.com/in/
+bhupal-maruchetty-2070b8301**
+
 **Snap of Dashboard:**
 
 ![image](https://github.com/user-attachments/assets/01aa8bad-27bc-4703-968b-7fa8d539afdd)
