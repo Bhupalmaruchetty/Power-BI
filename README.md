@@ -275,7 +275,7 @@ bhupal-maruchetty-2070b8301**
 
  **Snap of Dashboard:**
 
- ![image](https://github.com/user-attachments/assets/1751d56b-7100-4e7e-bcbf-1deca464d26c)
+ ![image](https://github.com/user-attachments/assets/504d5e45-aa93-4194-b797-79bcbae41729)
 
  
 
