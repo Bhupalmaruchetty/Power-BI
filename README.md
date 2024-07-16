@@ -61,3 +61,55 @@ Snap of Dashboard:
 ![image](https://github.com/user-attachments/assets/01aa8bad-27bc-4703-968b-7fa8d539afdd)
 
 
+Task2: Gender-based Analysis:
+
+Objective: Analyze and visualize gender-based differences in investment preferences.
+
+Steps:
+
+1.🔍 Visual Comparison:
+ I created charts to compare investment choices (equity, mutual funds, government bonds) based on gender.
+
+ 1.Gender-based choices on various investments:
+ Clustered Bar chart
+ 2.No.of male and female investors in each investment category.
+ Stacked Column chart
+ 3.Gender Distribution by Avenues
+ Pie chart
+ 4.Investment avenues Investment monitor and Gender:
+ Clustered Column Chart 
+
+2.📊Key Insights:
+
+ 1.The average age of investors is 27.8 years.
+
+ 2.There are 37 different investment avenues analyzed, with 3 categories showing no investment.
+
+3. Government Bonds:
+Male: 121 investments
+Female: 65 investments
+
+Observation: Males have a significantly higher preference for Government Bonds compared to females.
+
+Mutual Funds:
+Male: 61 investments
+Female: 41 investments
+
+Observation: The number of investments in Mutual Funds is nearly equal between males and females, with males having a slightly higher count.
+
+Equity Market:
+Male: 89 investments
+Female: 50 investments
+
+Observation: Males have a higher count of investments in the Equity Market compared to females.
+
+5. The pie chart indicates that 62.5% of investments are made by male investors whereas 37.5% are female investors.
+
+6. Investment monitoring frequency shows that Males prefer to monitor their investments monthly, much more than females. Weekly monitoring is also mostly done by males, with few females participating. 
+
+Interestingly, daily monitoring is more popular among male investors, with no females choosing this option.
+
+![image](https://github.com/user-attachments/assets/da93cb5d-2ec2-4ba9-8fa7-31c2e449fb21)
+
+
+
