@@ -151,34 +151,38 @@ Female: 50 investments
 
 
 
-Task4: Investment Duration and Frequency
+**Task4**: **Investment Duration and Frequency**
 
 Objective: Analyze investment durations and monitoring frequencies.
 
-Steps:
+**Steps:**
  1.Duration Distribution: Visualize the distribution of investment durations.
  2.Frequency Analysis: Examine investment monitoring frequencies and their impact on investment preferences.
 
-📊 Key Insights:
-
- 1.Investment Frequencies:
+**Key insights**:
+ 
+ **1.Investment Frequencies**:
  Monthly investments are the most common, with 29 instances, followed by weekly (7) and daily (4).
 
- 2. Investment Durations:
+ **2. Investment Durations:**
  The majority of investments are in the medium-term range, with 3-5 years (19 instances) and 1-3 years (18 instances) being the most popular durations.
  Short-term (less than 1 year) and long-term (more than 5 years) investments are less common.
 
- 3.Investment Avenues:
+ **3.Investment Avenues**:
  Mutual funds are the most frequent investment avenue, indicating a preference among investors for this type of investment.
 
-Conclusion:
+**Conclusion**:
  These insights suggest that investors favor a regular, monthly investment schedule and medium-term investment horizons, with a particular preference for mutual funds.
 
-LinkedIn URL:bhupal-maruchetty-2070b8301
+**LinkedIn URL**:www.linkedin.com/in/
+bhupal-maruchetty-2070b8301
 
- Snap of Dashboard:
+ **Snap of Dashboard:**
 
  ![image](https://github.com/user-attachments/assets/763f8071-1f19-4aa3-9d5c-807dfadde828)
+
+
+ 
 
 
 
