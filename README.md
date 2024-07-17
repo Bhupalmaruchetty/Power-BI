@@ -300,6 +300,86 @@ bhupal-maruchetty-2070b8301**
 
  ![image](https://github.com/user-attachments/assets/504d5e45-aa93-4194-b797-79bcbae41729)
 
+
+
+
+
+
+
+Final Dashboard:Investment Analysis
+
+🚀 Investment Analysis Insights : Dashboard1🚀
+
+1.Demographics:
+ The average age of investors is 27.80 years.
+ I've analyzed 37 unique investment avenues.
+ Notably, 3 individuals have no investment avenues.
+
+2. Investment Preferences:
+ Gold (239 counts) and debentures (230 counts) are the top investment choices.
+Government bonds (186 counts) and fixed deposits (143 counts) are also highly popular.
+Other significant investments include the equity market (102 counts), mutual funds (100 counts), and PPF (81 counts).
+
+3. Savings Objectives:
+The leading savings objective is retirement (24 counts).
+Healthcare savings follow with 13 counts, and education savings objectives have 3 counts.
+
+4. Gender Distribution:
+ Among investors, 62.5% are male (25 individuals) and 37.5% are female (15 individuals).
+
+5. Investment by Gender:
+ Government bonds:125 counts for males and 65 counts for females
+Males prefer mutual funds (61 counts) and the equity market (89 counts) more.
+ Females have a notable presence in mutual funds (41 counts) and the equity market (50 counts).
+
+6. Investment Variety:
+ Gold (239) and debentures (230) are the top preferred investment avenues.
+
+
+ Snap of Dashboard
+
+ ![Screenshot 2024-07-17 175835](https://github.com/user-attachments/assets/f0bda8f9-65e0-4f4a-9a8f-d230a1171544)
+
+
+                
+🚀 Investment Analysis Insights : Dashboard2🚀
+
+ 1.Investment Avenues by Source:
+ Financial consultants are the primary source for investment advice, mentioned 16 times.
+ Newspapers and magazines are also influential, with 14 mentions.
+
+2. Reasons for Investments:
+The leading reason for investments is the pursuit of better returns (24 mentions).
+Fund diversification (13 mentions) and tax benefits (8 mentions) are other significant motivators.
+
+3. Investment Avenues by Objective:
+ Capital appreciation is the top investment objective, noted 13 times.
+Growth and income objectives are also notable, highlighting diverse investment goals.
+
+4. Source by Avenue:
+ Mutual funds are the most popular investment avenue, with 18 mentions. Equity (10 mentions) and fixed deposits (9 mentions) are also commonly chosen.
+
+5. Investment Avenues by Duration:
+ Most investments are planned for a duration of 3-5 years (19 mentions).
+1-3 years duration is the second most common, while very short-term investments (less than 1 year) are less frequent.
+
+6. Investment Frequencies:
+ Monthly investments are the most common frequency, mentioned 29 times.
+Weekly and daily investments are less common but still present.
+
+
+Snap of Dashboard
+
+
+![Screenshot 2024-07-17 175932](https://github.com/user-attachments/assets/2d644b7c-5202-4922-8f64-3550a9e2e348)
+
+
+LinkedIn URL:www.linkedin.com/in/bhupal-maruchetty-2070b8301
+
+
+
+ 
+
  
 
 
