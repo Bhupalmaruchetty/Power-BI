@@ -57,9 +57,6 @@ Investing in gold indicates a hedge against economic uncertainty and inflation, 
 
 The data shows a focus on long-term financial stability and healthcare, with less attention to education savings. Investments in gold and debentures suggest a preference for stability and fixed-income securities in an uncertain economy.
 
-LinkedIn URL:**www.linkedin.com/in/
-bhupal-maruchetty-2070b8301**
-
 **Snap of Dashboard:**
 
 ![image](https://github.com/user-attachments/assets/01aa8bad-27bc-4703-968b-7fa8d539afdd)
@@ -119,15 +116,10 @@ Female: 50 investments
 
 **Conclusion :** Interestingly, daily monitoring is more popular among male investors, with no females choosing this option.
 
-**LinkedIn URL:www.linkedin.com/in/ bhupal-maruchetty-2070b8301**
 
 **Snap of Dashboard:**
 
 ![image](https://github.com/user-attachments/assets/da93cb5d-2ec2-4ba9-8fa7-31c2e449fb21)
-
-
-
-
 
 
 
@@ -153,7 +145,6 @@ Female: 50 investments
 
 **Summary :** This analysis helps in understanding investment preferences and objectives better, enabling more tailored financial advice and solutions.
 
-**LinkedIn URL:www.linkedin.com/in/ bhupal-maruchetty-2070b8301**
 
 **Snap of Dashboard**
 
@@ -188,8 +179,6 @@ Objective: Analyze investment durations and monitoring frequencies.
 **Conclusion**:
  These insights suggest that investors favor a regular, monthly investment schedule and medium-term investment horizons, with a particular preference for mutual funds.
 
-**LinkedIn URL**:www.linkedin.com/in/
-bhupal-maruchetty-2070b8301
 
  **Snap of Dashboard:**
 
@@ -237,8 +226,6 @@ Values: Count of occurrences for each reason.
  3. When making investment decisions, returns are the most critical factor, followed by risk management.
  4. The locking period is of minimal concern, indicating that investors are generally comfortable with the investment duration and do not prioritize immediate liquidity.
 
- **LinkedIn URL**:www.linkedin.com/in/
-bhupal-maruchetty-2070b8301
 
  **Snap of Dashboard:**
 
@@ -291,9 +278,6 @@ bhupal-maruchetty-2070b8301
  **Conclusion**: These insights show that Financial Consultants are the most trusted source across various investment avenues, while Television is the least utilized.
 
  The information available for different investment avenues, with Mutual Funds being the most prominent and Public Provident Fund least discussed on the sources
-
-**LinkedIn URL**:**www.linkedin.com/in/
-bhupal-maruchetty-2070b8301**
 
 
  **Snap of Dashboard:**
@@ -374,7 +358,6 @@ Snap of Dashboard
 ![Screenshot 2024-07-17 175932](https://github.com/user-attachments/assets/2d644b7c-5202-4922-8f64-3550a9e2e348)
 
 
-LinkedIn URL:www.linkedin.com/in/bhupal-maruchetty-2070b8301
 
 
 
