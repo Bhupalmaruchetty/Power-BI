@@ -319,7 +319,7 @@ Males prefer mutual funds (61 counts) and the equity market (89 counts) more.
 6. Investment Variety:
  Gold (239) and debentures (230) are the top preferred investment avenues.
 
-Summary
+**Summary**:
 The analysis reveals that investors prioritize securing their future through Retirement and Health Care savings, while also favoring stable investment options like Gold, Debentures, and Government Bonds. The investment landscape is predominantly male, with males accounting for 62.5% of the investments, compared to 37.5% by females. This data underscores a preference for long-term security and stability among the current investor demographic.
 
 
