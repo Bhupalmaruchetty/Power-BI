@@ -290,9 +290,9 @@ Values: Count of occurrences for each reason.
 
 
 
-Final Dashboard:Investment Analysis
+   **Final Dashboard:Investment Analysis**
 
-🚀 Investment Analysis Insights : Dashboard1🚀
+🚀 **Investment Analysis Insights : Dashboard1**🚀
 
 1.Demographics:
  The average age of investors is 27.80 years.
@@ -320,13 +320,13 @@ Males prefer mutual funds (61 counts) and the equity market (89 counts) more.
  Gold (239) and debentures (230) are the top preferred investment avenues.
 
 
- Snap of Dashboard
+ **Snap of Dashboard**
 
  ![Screenshot 2024-07-17 175835](https://github.com/user-attachments/assets/f0bda8f9-65e0-4f4a-9a8f-d230a1171544)
 
 
                 
-🚀 Investment Analysis Insights : Dashboard2🚀
+🚀 **Investment Analysis Insights : Dashboard2**🚀
 
  1.Investment Avenues by Source:
  Financial consultants are the primary source for investment advice, mentioned 16 times.
@@ -352,7 +352,7 @@ Growth and income objectives are also notable, highlighting diverse investment g
 Weekly and daily investments are less common but still present.
 
 
-Snap of Dashboard
+**Snap of Dashboard**
 
 
 ![Screenshot 2024-07-17 175932](https://github.com/user-attachments/assets/2d644b7c-5202-4922-8f64-3550a9e2e348)
