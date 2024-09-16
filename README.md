@@ -1,4 +1,4 @@
-**📊Project Name**:**Investment Analysis📊**                     
+# Investment Analysis 📊                   
 
 🔍 **Task1: Data Exploration and Summary**📊
 
